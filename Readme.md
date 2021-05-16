@@ -1,0 +1,1 @@
+Small Python-Program to use with Docker-Image "eclipse-mosquitto" in order to publish data received from three temperature sensors via Modbus-TCP.
